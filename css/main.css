@@ -47,6 +47,7 @@ h2 , h3 {
 }
 span {
 	color: #EA9CAE;
+	font-weight: bolder;
 }
 .middle {
 	position: relative;
@@ -61,20 +62,152 @@ img {
 .Summary {
 	display: inline-block;
 }
-.AboutMe
-{
+.AboutMe {
 	position: relative;
 	display: inline-block;
 	text-align: center;
+	padding-right: 850px;
+	top: 20px;
 }
 	
-.MyWork
-{
+.MyWork {
 	position: relative;
 	display: inline-block;
 	text-align: center;
+	padding-left: 700px;
+	bottom: 180px;
 }
 p {
 	font-family: 'Poiret One', cursive;
 	font-weight: bolder;
+	text-align: left;
+}
+.spain img { 
+	position: relative;
+	height: 150px;
+	width: 150px;
+	padding-left: 25px;
+	border-radius: 4px;
+	display: inline-block;
+}
+.spain h2 {
+	position: relative;
+	right: 565px;
+}
+.bahrain img {
+	position: absolute;
+	height: 150px;
+	width: 150px;
+	display: inline-block;
+	padding-left: 300px;
+	top: 835px;
+	border-radius: 6px;
+}
+.bahrain h2 {
+	position: absolute;
+	left: 310px;
+	top: 970px;
+}
+.zebra img {
+	position: absolute;
+	height: 150px;
+	width: 150px;
+	top: 835px;
+	padding-left: 600px;
+}
+.zebra h2 {
+	position: absolute;
+	top: 970px;
+	left: 610px;
+}
+.fishing img {
+	position: absolute;
+	height: 150px;
+	width: 150px;
+	top: 835px;
+	padding-left: 850px;
+	border-radius: 6px;
+}
+.fishing h2 {
+	position: absolute;
+	top: 970px;
+	left: 875px;
+}
+.fence img {
+	position: absolute;
+	height: 150px;
+	width: 150px;
+	top: 835px;
+	padding-left: 1100px;
+	border-radius: 6px;
+}
+.fence h2 {
+	position: absolute;
+	top: 970px;
+	left: 1140px;
+}
+.quad img {
+	position: absolute;
+	height: 150px;
+	width: 150px;
+	top: 1050px;
+	border-radius: 6px;
+	padding-left: 25px;
+}
+.quad h2 {
+	position: absolute;
+	left: 40px;
+	top: 1185px;
+}
+.blast img {
+	position: absolute;
+	top: 1050px;
+	border-radius: 6px;
+	height: 150px;
+	width: 150px;
+	padding-left: 300px;
+}
+.blast h2 {
+	position: absolute;
+	top: 1185px;
+	left: 330px;
+}
+.gates img {
+	position: absolute;
+	top: 1050px;
+	height: 150px;
+	width: 150px;
+	border-radius: 6px;
+	padding-left: 600px;
+}
+.gates h2 {
+	position: absolute;
+	top: 1185px;
+	left: 610px;
+}
+.winter img {
+	position: absolute;
+	top: 1050px;
+	height: 150px;
+	width: 150px;
+	border-radius: 6px;
+	padding-left: 850px;
+}
+.winter h2 {
+	position: absolute;
+	top: 1185px;
+	left: 875px;
+}
+.burn img {
+	position: absolute;
+	height: 150px;
+	width: 150px;
+	top: 1050px;
+	border-radius: 6px;
+	padding-left: 1100px;
+}
+.burn h2 {
+	position: absolute;
+	top: 1185px;
+	left: 1165px;
 }
